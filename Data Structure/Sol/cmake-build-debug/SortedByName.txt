@@ -1,0 +1,15 @@
+Algorithm: Insertion Sort
+Running Time: 0 milliseconds
+Sorted Student Elements:
+Sara Ahmed
+78697
+3.1
+Mohamed Kamal
+97848
+2.2
+Mariam
+69712
+3.7
+Ali
+3541
+3.5

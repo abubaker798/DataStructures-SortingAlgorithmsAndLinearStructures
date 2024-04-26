@@ -1,0 +1,15 @@
+Algorithm: Selection Sort
+Running Time: 0 milliseconds
+Sorted Student Elements:
+Mohamed Kamal
+97848
+2.2
+Sara Ahmed
+78697
+3.1
+Ali
+3541
+3.5
+Mariam
+69712
+3.7
